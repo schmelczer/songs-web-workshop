@@ -1,5 +1,34 @@
 # Második webes workshop
 
+## Ütemterv
+
+- Poll:
+
+  - Ki tudja mi az a HTML?
+  - Ki az, aki úgy érzi magabiztosan megy neki?
+  - Ugyanez CSS-sel is...
+
+- Menetrend elmondása
+- Last.fm bemutatása
+
+- Előzőek függvényében nagyvonalú áttekintés HTML + CSS-ről
+
+- Játék a flexboxszal
+
+  - gradient
+  - flex
+  - selectorok
+  - google fonts
+  - !important
+
+- Középre alignolás
+
+  - transition
+
+- Last.fm-re ránézés
+
+- Implementáció elkezdése
+
 ## Érdekesebb részletek
 
 ### HTML
