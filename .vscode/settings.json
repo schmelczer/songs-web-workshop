@@ -1,10 +1,11 @@
 {
-    "cSpell.words": [
-        "autofill",
-        "favourite",
-        "getsimilar",
-        "gettoptracks",
-        "similarartists",
-        "toptracks"
-    ]
+  "cSpell.words": [
+    "autofill",
+    "favourite",
+    "getsimilar",
+    "gettoptracks",
+    "similarartists",
+    "toptracks"
+  ],
+  "markdown.styles": ["md.css"]
 }
